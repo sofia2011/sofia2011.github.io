@@ -8,6 +8,8 @@ Nearly all lions live in Africa below the sahara desert, but a few live in Gir F
  
 Lions are the only big cats that live in a pride (a pride is a group of Lions). A pride can have up to 30 lions depending on how much food and water is available.
 
+![lion1](lion1.png) ![lion2](lion2.png)
+
 When living in a group, they can work together to hunt food. When having a social life, lions have competition between them. Usually the biggest and strongest male leads the pride.
 
 Lions are really close to extinction. In the last ten years their numbers have gone down by 30%. 
