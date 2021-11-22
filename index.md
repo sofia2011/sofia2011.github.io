@@ -1,4 +1,4 @@
-# BetaSof AllphaAl
+# BetaSof AlphaAl
 
 ## Big Cats
 
