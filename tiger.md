@@ -21,8 +21,8 @@ Did you know a Tiger can only run up to half the speed of a cheetah, a tiger can
 
  6. Sumatran tiger. The Sumatran tiger is only found on an Island in Indonesia called Sumatra Sumatran tigers are protected by law in Indonesia, The Sumatran tiger has the Darkest coats of all tigers.
 
- Bali tiger. The Bali tiger is one of the three subspecies that are extinct.The Bali tiger  went extinct in the 1040 The causes of extinction include hunting, loss of forest habitat and loss of their prey base. None of these tigers exist in captivity.
+ 7. Bali tiger. The Bali tiger is one of the three subspecies that are extinct.The Bali tiger  went extinct in the 1040 The causes of extinction include hunting, loss of forest habitat and loss of their prey base. None of these tigers exist in captivity.
 
-8. Javan tiger. The javan tiger went extinct in the 1940 and lived on an island in Indonesia called Java.
+ 8. Javan tiger. The javan tiger went extinct in the 1940 and lived on an island in Indonesia called Java.
 
-9. Caspian tiger. The Caspian tiger went extinct in the 1980’s. Caspian Tigers and their large ungulate prey were found in the sparse forest habitats and riverine corridors west (Turkey) and south (Iran) of the Caspian Sea and west through Central Asia into the Takla Makan desert of Xinjiang, China,
+ 9. Caspian tiger. The Caspian tiger went extinct in the 1980’s. Caspian Tigers and their large ungulate prey were found in the sparse forest habitats and riverine corridors west (Turkey) and south (Iran) of the Caspian Sea and west through Central Asia into the Takla Makan desert of Xinjiang, China,
