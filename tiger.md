@@ -26,3 +26,5 @@ Did you know a Tiger can only run up to half the speed of a cheetah, a tiger can
  8. Javan tiger. The javan tiger went extinct in the 1940 and lived on an island in Indonesia called Java.
 
  9. Caspian tiger. The Caspian tiger went extinct in the 1980’s. Caspian Tigers and their large ungulate prey were found in the sparse forest habitats and riverine corridors west (Turkey) and south (Iran) of the Caspian Sea and west through Central Asia into the Takla Makan desert of Xinjiang, China,
+
+     ![Tiger](bengal_tiger.png)
