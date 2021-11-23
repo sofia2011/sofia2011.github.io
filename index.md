@@ -11,4 +11,4 @@
 
 ## Reptiles
 
-- [King Cobra](king_cobra)
+- [Cobra](cobra)
