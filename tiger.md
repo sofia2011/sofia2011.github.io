@@ -6,7 +6,9 @@ Did you know a Tiger can only run up to half the speed of a cheetah, a tiger can
 
  There are nine subspecies of tigers.
 
- 1. The Amur tiger, the Amur tiger is the largest tiger subspecies in the world Males can grow up to 3.3 m (10.5 feet) from head to toe and can weigh up to 300kg  females are smaller and can reach up to 2.6m (8.5 feet) from head to toe and can weigh up to 167 kg.
+ ![Tiger](amur_tiger.png)
+
+ 1. Amur tiger. The Amur tiger is the largest tiger subspecies in the world Males can grow up to 3.3 m (10.5 feet) from head to toe and can weigh up to 300kg  females are smaller and can reach up to 2.6m (8.5 feet) from head to toe and can weigh up to 167 kg.
 
  2. Bengal tiger. the bengal tiger is the most common tiger there are Approximately 3700. The bengal tiger lives in Sundarbans mangrove in India.
 
