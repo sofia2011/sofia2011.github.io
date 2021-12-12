@@ -1,5 +1,7 @@
 # Cheetah
 
+![Cheetah](cheetah3.png) ![Cheetah](cheetah2.png)
+
 Cheetahs are not one of the true big cats since they do not have a floating Hyoid bone in its neck which means they cannot roar so it is a Lesser Cat, they are considered throughout history to be a sleek and beautiful cat.
 
 Cheetahs can run 80-130 km per hour and they can only run for full speed for 30secs. Cheetahs eat gazelles, springbok, steenbok, duikers, impala, they also eat the young of warthogs, kudu, hartebeest, oryx, roan and sable cheetahs also hunt game birds and rabbits.
